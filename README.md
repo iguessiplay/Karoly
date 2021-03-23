@@ -6,4 +6,5 @@ Karoly egy olyan kedves DISCORD felhasználó/bot, hogy szabadidejében szívese
 
 #### LINKS
 DISCORD SERVER: https://discord.com/invite/wHwYfccZWE 
+
 INVITE: https://discord.com/api/oauth2/authorize?client_id=717668074274422794&permissions=8&scope=bot
